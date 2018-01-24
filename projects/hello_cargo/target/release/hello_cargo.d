@@ -1,0 +1,1 @@
+/Users/IsmaelPamplona/google_drive/programacao/Workspace/rust-book/projects/hello_cargo/target/release/hello_cargo: /Users/IsmaelPamplona/google_drive/programacao/Workspace/rust-book/projects/hello_cargo/src/main.rs
