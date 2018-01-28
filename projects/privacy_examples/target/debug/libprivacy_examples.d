@@ -1,0 +1,1 @@
+/Users/IsmaelPamplona/google_drive/programacao/Workspace/rust-book/projects/privacy_examples/target/debug/libprivacy_examples.rlib: /Users/IsmaelPamplona/google_drive/programacao/Workspace/rust-book/projects/privacy_examples/src/lib.rs
