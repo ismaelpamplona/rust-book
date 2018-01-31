@@ -1,7 +1,7 @@
 fn main() {
     
     println!(" ");
-    println!("--> TESTING APP");
+    println!("--> TESTING VECTORS APP");
     println!(" ");
 
     println!("--> 8.1 - Vectors Store Lists of Values");
@@ -92,8 +92,4 @@ fn main() {
 
     // print!("{:?}", row); find a way to print row vec at terminal
 
-    println!("--> 8.2 - Strings Store UTF-8 Encoded Text");
-    println!(" ");   
-
-    
 }

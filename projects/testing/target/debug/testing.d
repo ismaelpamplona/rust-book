@@ -1,1 +1,0 @@
-/Users/IsmaelPamplona/google_drive/programacao/Workspace/rust-book/projects/testing/target/debug/testing: /Users/IsmaelPamplona/google_drive/programacao/Workspace/rust-book/projects/testing/src/main.rs
