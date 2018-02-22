@@ -1,0 +1,1 @@
+/Users/IsmaelPamplona/google_drive/programacao/Workspace/rust-book/projects/testing/adder/target/debug/libadder.rlib: /Users/IsmaelPamplona/google_drive/programacao/Workspace/rust-book/projects/testing/adder/src/lib.rs

@@ -1,0 +1,1 @@
+/Users/IsmaelPamplona/google_drive/programacao/Workspace/rust-book/projects/testing/generic_types_traits_lifetimes/target/debug/generic_types_traits_lifetimes: /Users/IsmaelPamplona/google_drive/programacao/Workspace/rust-book/projects/testing/generic_types_traits_lifetimes/src/main.rs
