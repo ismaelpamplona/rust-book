@@ -1,0 +1,1 @@
+/Users/IsmaelPamplona/google_drive/programacao/Workspace/rust-book/projects/minigrep/target/debug/libminigrep.rlib: /Users/IsmaelPamplona/google_drive/programacao/Workspace/rust-book/projects/minigrep/src/lib.rs
