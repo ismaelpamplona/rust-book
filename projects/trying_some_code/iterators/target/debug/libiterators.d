@@ -1,0 +1,1 @@
+/Users/IsmaelPamplona/google_drive/programacao/Workspace/rust-book/projects/trying_some_code/iterators/target/debug/libiterators.rlib: /Users/IsmaelPamplona/google_drive/programacao/Workspace/rust-book/projects/trying_some_code/iterators/src/lib.rs

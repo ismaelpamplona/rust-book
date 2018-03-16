@@ -1,0 +1,3 @@
+var searchIndex = {};
+searchIndex["art"] = {"doc":"Art","items":[[0,"kinds","art","",null,null],[4,"PrimaryColor","art::kinds","The primary colors according to the RYB color model.",null,null],[13,"Red","","",0,null],[13,"Yellow","","",0,null],[13,"Blue","","",0,null],[4,"SecondaryColor","","The secondary colors according to the RYB color model.",null,null],[13,"Orange","","",1,null],[13,"Green","","",1,null],[13,"Purple","","",1,null],[0,"utils","art","",null,null],[5,"mix","art::utils","Combines two primary colors in equal amounts to create a secondary color.",null,{"inputs":[{"name":"primarycolor"},{"name":"primarycolor"}],"output":{"name":"secondarycolor"}}]],"paths":[[4,"PrimaryColor"],[4,"SecondaryColor"]]};
+initSearch(searchIndex);

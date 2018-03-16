@@ -1,0 +1,1 @@
+/Users/IsmaelPamplona/google_drive/programacao/Workspace/rust-book/projects/trying_some_code/closures/target/debug/closures: /Users/IsmaelPamplona/google_drive/programacao/Workspace/rust-book/projects/trying_some_code/closures/src/main.rs
